@@ -7,8 +7,8 @@ Created on Fri Mar  5 13:34:20 2021
 """
 import re,requests,time
 
-username = "fuwenyue"
-password = "123abc123456"
+username = "*****"
+password = "*****"
 
 url = "https://www.93hsy.com/member.php"
 kgurl = 'https://www.93hsy.com/plugin.php?id=miner:miner'
