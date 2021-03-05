@@ -6,6 +6,9 @@ Created on Fri Mar  5 13:34:20 2021
 
 """
 import re,requests,time
+import sys
+reload (sys)
+sys.setdefaultencoding('utf-8')
 
 username = "*****"
 password = "*****"
