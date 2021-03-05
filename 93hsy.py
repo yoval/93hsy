@@ -10,8 +10,8 @@ import sys
 reload (sys)
 sys.setdefaultencoding('utf-8')
 
-username = "*****"
-password = "*****"
+username = "fuwenyue"
+password = "123abc123456"
 
 url = "https://www.93hsy.com/member.php"
 kgurl = 'https://www.93hsy.com/plugin.php?id=miner:miner'
